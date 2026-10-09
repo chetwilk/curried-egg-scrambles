@@ -1,1 +1,1 @@
-# A simple recipe for Curried Scrambled Eggs.
+# A Simple Recipe For Curried Scrambled Eggs.
